@@ -103,7 +103,7 @@
         // "exec-tooltip": "~/.scripts/updates tooltip"
     },
     "custom/music": {
-        "format": "{icon}{}",
+        "format": "{icon}{0}",
         "format-icons": {
             // "Playing": " ", // Uncomment if not using the dynamic script
             "Paused": " ",
