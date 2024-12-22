@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+grim -g "$(slurp -c cba6f788 -b 00000099 -w 0)" - | wl-copy
