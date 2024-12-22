@@ -1,0 +1,2 @@
+vesktop hyprland google-chrome-stable steam nemo kittyvscode kodi gpu-screen-recorder-git nwg-look gamemode btrfs-progs cava cliphist fmpeg grub-customizer hyprpaper hyprpicker hyprlauncher inotify-tools pavucontrol nvidia mpd mpd-mpris mpv nano network-manager-applet networkmanager noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra nvidia-utils qt5 qt6 reflector sddm thunderbird waybar  xdg-desktop-portal-hyprland hyprpolkitagent-git hyprsysteminfo
+# probably someone wrong
