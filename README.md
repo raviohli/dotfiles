@@ -1,2 +1,2 @@
 # dotfiles
-Personal dotfiles for Arch under Hyprland
+Personal dotfiles for Hyprland under Arch
